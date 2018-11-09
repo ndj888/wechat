@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/wechat",
+    "name": "ndj888/wechat",
     "description": "微信SDK",
     "keywords": [
         "wechat",
@@ -22,7 +22,7 @@
         "easywechat-composer/easywechat-composer": "^1.1",
         "guzzlehttp/guzzle": "^6.2",
         "monolog/monolog": "^1.22",
-        "overtrue/socialite": "~2.0",
+        "ndj888/socialite": "~2.0",
         "pimple/pimple": "^3.0",
         "symfony/cache": "^3.3|^4.0",
         "symfony/http-foundation": "^2.7|^3.0|^4.0",
